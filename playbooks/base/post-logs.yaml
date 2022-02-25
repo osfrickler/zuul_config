@@ -6,4 +6,4 @@
     - role: upload-logs
       vars:
         # use your dns or ip address here
-        zuul_log_url: "http://zuul.tibeer.de:8000"
+        zuul_log_url: "http://zuul.beta.fricklercloud.de:8000"
